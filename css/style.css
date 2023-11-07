@@ -64,5 +64,9 @@ svg{
     left: 0;
     top: 0;
 }
-/*Add keyframe for anim*/
-@k
+/*Add keyframe for anim; whenever we refresh page the circles completes in 2 secs*/
+@keyframes anim{
+    100%{
+        stroke-dashoffset: 143;
+    }
+}
