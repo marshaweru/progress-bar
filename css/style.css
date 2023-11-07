@@ -35,10 +35,12 @@ body{
     width: 115px;
     border-radius: 50%;
     /*border: 1px solid black; and add inside box shadow*/
-    box-shadow: insert 4px 4px 6px -1px rgba(0,0,0,0.2),
-                insert -4px -4px 6px -1px rgba(255,255,255,0.7),
+    box-shadow: insert 3px 3px 5px -1.5px rgba(0,0,0,0.2),
+                insert -3px -3px 5px -1.5px rgba(255,255,255,0.7),
                 -0.5px -0.5px 0px rgba(255,255,255,1),
-                0px 12px 10px -10px rgba(0, 0, 0, 0.05),
+                0.5px 0.5px 0px rgba(0,0,0,0.15),
+                0px 10px 8px -12px rgba(0, 0, 0, 0.05);
+
 
 
 
