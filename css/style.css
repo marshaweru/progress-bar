@@ -8,5 +8,9 @@
 
 /*Styling for body tag*/
 body{
-    background: rgb(73, 75, 212);
+    height: 110vh;
+    justify-content: center;
+    background: rgb(144, 145, 216);
+    align-items: center;
+    display: flex;
 }
