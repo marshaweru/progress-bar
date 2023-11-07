@@ -22,10 +22,13 @@ body{
 }
 /*Styling for class called outer*/
 .outer{
-    height: 115px;
-    width: 115px;
+    height: 155px;
+    width: 155px;
+    padding: 20px;
     border-radius: 50%;
-    border: 1px solid black;
+    /*border: 1px solid black; and add box shadow to show shadow in outer circle*/ 
+    box-shadow: 5px 5px 10px -1px rgba(0, 0, 0, 0.15),
+                -5px -5px 10px -1px rgba(255, 255, 255, 0.7)
 }
 .inner{
     height: 115px;
