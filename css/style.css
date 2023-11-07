@@ -5,3 +5,8 @@
     padding: 0;
 }
 /*The above is the boiler plate CSS for all my apps*/
+
+/*Styling for body tag*/
+body{
+    background: rgb(73, 75, 212);
+}
