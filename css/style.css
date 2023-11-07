@@ -34,5 +34,6 @@ body{
     height: 115px;
     width: 115px;
     border-radius: 50%;
-    border: 1px solid black;
+    /*border: 1px solid black; and add inside box shadow*/
+    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0);
 }
