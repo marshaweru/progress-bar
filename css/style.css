@@ -14,3 +14,9 @@ body{
     align-items: center;
     display: flex;
 }
+/*Style for class skill*/
+.skill{
+    position: relative;
+    height: 155px;
+    width: 155px;
+}
