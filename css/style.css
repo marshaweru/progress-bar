@@ -43,6 +43,7 @@ body{
                 -0.5px -0.5px 0px rgba(255,255,255,1),
                 0.5px 0.5px 0px rgba(0,0,0,0.15),
                 0px 10px 8px -12px rgba(0, 0, 0, 0.05);
+}
 /*Decorate ID*/
 #number{
     color:#302121;
@@ -50,7 +51,3 @@ body{
 }
 
 
-
-
-
-}
