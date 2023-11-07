@@ -51,3 +51,18 @@ body{
 }
 
 /*Add CSS for svg file in the circle tag*/
+circle{
+    stroke: url(#GradientColor);/*Gives it more than one color*/
+    fill: none;
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    animation: anim 2s linear forwards;
+}
+svg{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+/*Add keyframe for anim*/
+@k
