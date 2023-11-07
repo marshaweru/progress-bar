@@ -22,5 +22,14 @@ body{
 }
 /*Styling for class called outer*/
 .outer{
-
+    height: 115px;
+    width: 115px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.inner{
+    height: 115px;
+    width: 115px;
+    border-radius: 50%;
+    border: 1px solid black;
 }
