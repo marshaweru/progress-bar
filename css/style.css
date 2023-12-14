@@ -39,7 +39,7 @@ body{
     border-radius: 50%;
     /*border: 1px solid black; and add inside box shadow*/
     box-shadow: insert 3px 3px 5px -1.5px rgba(31, 30, 30, 0.2),
-                insert -3px -3px 5px -1.5px rgba(90, 89, 89, 0.7),
+                insert -3px -3px 5px -1.5px rgba(66, 64, 64, 0.7),
                 -0.5px -0.5px 0px rgba(255,255,255,1),
                 0.5px 0.5px 0px rgba(0,0,0,0.15),
                 0px 10px 8px -12px rgba(0, 0, 0, 0.05);
